@@ -5,8 +5,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Estamos haciendo control de versiones con Git");
-		System.out.println("Nuevo mensaje");
-		System.out.println("Ultimo mensaje");
+		System.out.println("Estrenando repositoria github");
 	}
 
 }
